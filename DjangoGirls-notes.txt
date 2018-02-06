@@ -1,0 +1,18 @@
+Django Girls Tutorial - Notes
+
+- open a bash shell by just typing 'bash' in a new terminal window
+- cd djangogirls
+- source myvenv/bin/activate  (to activate the venv)
+- to deactivate the venv: deactivate
+- to start server: python manage.py runserver
+- URLs = http://127.0.0.1:8000/   http://127.0.0.1:8000/admin/
+- To stop server: CNTL-C
+
+- To add new files to the database:
+     prepare a migration: python manage.py makemigrations blog
+     then upload it: python manage.py migrate blog
+
+- To create a superuser:
+     python manage.py createsuperuser
+
+left off here: https://tutorial.djangogirls.org/en/django_models/
