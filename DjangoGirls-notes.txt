@@ -15,4 +15,6 @@ Django Girls Tutorial - Notes
 - To create a superuser:
      python manage.py createsuperuser
 
+- Practice site on pythonanywhere: 
+
 left off here: https://tutorial.djangogirls.org/en/django_models/
