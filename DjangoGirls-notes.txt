@@ -16,6 +16,9 @@ Django Girls Tutorial - Notes
      python manage.py createsuperuser
 
 - Practice site on pythonanywhere:
+    https://saraaavso.pythonanywhere.com/
+- Admin site on pythonanywhere:
+    https://saraaavso.pythonanywhere.com/admin
 
 Pushing code up to GitHub:
 
